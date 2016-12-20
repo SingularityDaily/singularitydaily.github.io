@@ -75,7 +75,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #00688B; 
+  color: #12CBF9; 
 
 }
 p a {
@@ -85,7 +85,7 @@ p a {
 }
 
 a:hover {
-  color: #0000CD;
+  color: #666666;
   -o-transition: .5s;
   -ms-transition: .5s;
   -moz-transition: .5s;
@@ -126,10 +126,10 @@ h3 {
   margin-bottom: 20px;
   margin-top: 5px;
   line-height: 24px;
-  background:#B9D3EE;
-  /*0px right, 5px botton, 5px fuzzy*/
-  box-shadow: 0px 5px 5px #9FB6CD;
-  border-left: 6px solid #1874CD; 
+  background:#F8F8F8;
+  /*0px right, 5px botton, 5px fuzzy  B9D3EE */
+  box-shadow: 0px 3px 3px #E5E5E5;
+  border-left: 6px solid #999999; 
   position:relative;
 }
 
@@ -342,7 +342,7 @@ img::-moz-selection {
   }
 
   .excerpt {
-    border-left: 3px solid #458B74; 
+    border-left: 3px solid #12CBF9; 
     margin: 0;
     margin-right: 10px;
     font-size: .9em;
@@ -639,10 +639,10 @@ img::-moz-selection {
   }
 
   .btn-border-small {
-    font-size: 1.0em;
+    font-size: 0.9em;
     height: 30px;
     margin-left: 20px; 
-    color: #458B74;
+    color: #12CBF9;
   }
 
   .btn-secondary {
